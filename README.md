@@ -1,2 +1,4 @@
-# react-native-learning-tips
-Tips for learning react-native development
+# 📖 React Native Learning Tips
+
+## 📃 Design Tips
+https://shopify.engineering/5-ways-to-improve-your-react-native-styling-workflow
