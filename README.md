@@ -2,7 +2,7 @@
 
 ### 🌞 Environment
 #### ☁ Android
-https://prasadjivane.medium.com/react-native-environment-setup-on-windows-10-47a3b5e833b9![image](https://user-images.githubusercontent.com/87882515/212449819-f4f08307-6243-4c6e-a41f-a60441b7ce34.png)
+https://prasadjivane.medium.com/react-native-environment-setup-on-windows-10-47a3b5e833b9
 
 ### 🌞 Design Tips
 https://shopify.engineering/5-ways-to-improve-your-react-native-styling-workflow
