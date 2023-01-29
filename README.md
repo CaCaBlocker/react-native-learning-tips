@@ -7,6 +7,9 @@ https://prasadjivane.medium.com/react-native-environment-setup-on-windows-10-47a
 ### 🌞 Design Tips
 https://shopify.engineering/5-ways-to-improve-your-react-native-styling-workflow
 
+### 🌞 Development Tips
+https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b
+
 ### 🌞 Release
 #### ☁ Build an APK for Android
 https://instamobile.io/android-development/generate-react-native-release-build-android/
