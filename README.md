@@ -8,7 +8,7 @@ https://prasadjivane.medium.com/react-native-environment-setup-on-windows-10-47a
 https://shopify.engineering/5-ways-to-improve-your-react-native-styling-workflow
 
 ### 🌞 Development
-https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b
+https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b <br/>
 https://blog.sentry.io/2022/06/01/tips-for-optimizing-react-native-application-performance-part-1/
 
 ### 🌞 Release
