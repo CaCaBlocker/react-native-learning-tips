@@ -9,7 +9,8 @@ https://shopify.engineering/5-ways-to-improve-your-react-native-styling-workflow
 
 ### 🌞 Development
 https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b <br/>
-https://blog.sentry.io/2022/06/01/tips-for-optimizing-react-native-application-performance-part-1/
+https://blog.sentry.io/2022/06/01/tips-for-optimizing-react-native-application-performance-part-1/ <br/>
+https://betterprogramming.pub/5-tips-to-solve-common-pitfalls-with-react-native-fcf66772b4b7
 
 ### 🌞 Release
 #### ☁ Build an APK for Android
