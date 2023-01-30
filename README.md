@@ -12,6 +12,10 @@ https://medium.com/mop-developers/50-react-native-tips-part-1-2-5cb12803228b <br
 https://blog.sentry.io/2022/06/01/tips-for-optimizing-react-native-application-performance-part-1/ <br/>
 https://betterprogramming.pub/5-tips-to-solve-common-pitfalls-with-react-native-fcf66772b4b7
 
+### 🌞 Testing
+#### 🌜 Tools
+🌈 Detox https://github.com/wix/Detox
+
 ### 🌞 Release
 #### ☁ Build an APK for Android
 https://instamobile.io/android-development/generate-react-native-release-build-android/
